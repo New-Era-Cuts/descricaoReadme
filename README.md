@@ -6,10 +6,10 @@ Projeto web que permite agendar serviços tanto em uma barbearia quanto em um es
 **🌟 Funcionalidades**
 
 - Agendamento de Cortes e Tatuagens: Clientes podem agendar cortes de cabelo na barbearia ou agendar sessões de tatuagem no estúdio.
-- 
+ 
 - Gestão de Agendamentos: Barbeiros e tatuadores podem visualizar e gerenciar todos os agendamentos realizados.
-- 
 
+ 
 **⚙️ Configuração**
 Requisitos
 
