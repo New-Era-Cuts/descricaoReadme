@@ -1,3 +1,8 @@
+**Alunos**
+- Vinicius Maximo, Pedro Guilherme, Murilo Oliveira, Henrique Soares, Vanderlei Elias
+
+**New Era Cuts**
+
 **Barbearia & Tattoo Studio**
 
 **Objetivo do projeto**
@@ -10,9 +15,17 @@ Projeto web que permite agendar serviços tanto em uma barbearia quanto em um es
 - Gestão de Agendamentos: Barbeiros e tatuadores podem visualizar e gerenciar todos os agendamentos realizados.
 
  
-**⚙️ Configuração**
-Requisitos
+**⚙️Definição de Ferramentas**
 
-- Navegador web moderno com suporte para HTML5, CSS3 e JavaScript.
-- Servidor web (por exemplo, Apache) para hospedar o sistema.
-- Banco de dados MySQL.
+-Visual Studio Code(Html, CSS, JavaScript)
+-GitHub
+-SSM
+-Netlify
+
+
+- **Detalhamento**
+- Vinicius | Henrique (SQL) 
+- Murilo | Pedro (HTML)
+- Pedro | Vanderlei(CSS)
+- Vinicius | Henrique(Github)
+  
